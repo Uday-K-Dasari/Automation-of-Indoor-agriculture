@@ -1,0 +1,1 @@
+Developed a system to optimize indoor farming by automating irrigation, lighting, and environmental controls using real-time sensor data, complemented by a web-based interface for remote monitoring and management.
